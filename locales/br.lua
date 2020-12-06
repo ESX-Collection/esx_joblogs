@@ -5,20 +5,19 @@ Locales['br'] = {
   ['reboot'] = 'Servidor aberto',
   ['sendBill'] = '%s deu uma conta para %s de "%s"(%s)',
   -- es_admin2
-  ['temp'] = 'temp',
-  ['temp'] = 'temp',
-  ['temp'] = 'temp',
+  ['setbankmoney'] = '%s have set bank money of %s to %s.',
+  ['setgroup'] = '%s have set %s group %s.',
+  ['setmoney'] = '%s have set money of %s to %s.',
+  ['setpermlvl'] = '%s have set %s to permission level %s.',
   -- esx_ambulancejob
   ['ambulance_bot_name'] = 'Registro de Ambulância',
   ['revive'] = '%s revivido %s',
   ['heal'] = '%s tratado %s',
   ['getitem'] = '%s levou alguns %s na farmácia do hospital.',
   -- esx_billing
-  ['temp'] = 'temp',
-  ['temp'] = 'temp',
-  ['temp'] = 'temp',
+  ['paybill'] = '%s paid the invoice of %s for %s $.',
   -- esx_lscustom
-  ['buy_mod'] = '%s pagou pela mudança.',
+  ['buy_mod'] = '%s pagou %s pela mudança %s.',
   -- esx_mecanojob
   ['mecano_bot_name'] = 'Registro mecânico',
   ['getSharedInventorymecano'] = '%s removido x%s %s do cofre de Benny.',
@@ -41,7 +40,10 @@ Locales['br'] = {
   ['getSharedInventoryTaxi'] = '%s removido x%s %s do cofre do Taxi.',
   ['putStockItemsTaxi'] = '%s depositou x%s %s do cofre do Taxi.',
   -- esx_vehicleshop 
-  ['temp'] = 'temp',
-  ['temp'] = 'temp',
-  ['temp'] = 'temp',
+  ['vehicleshop_bot_name'] = 'Car Dealer Log',
+  ['carbuy']               = '%s bought a vehicle sold by %s. (Plate : %s ) - (Model : %s)',
+  ['carbuysociety']        = '%s bought a society vehicle sold by %s. (Society : %s ) - (Model : %s)',
+  ['carrent']              = '%s started renting ( (Plate : %s ) - (Model : %s))',
+  ['carsold']              = '%s resold a vehicle. (Plate : %s ) - (Model : %s)',
+  ['selfcarbuy']           = '%s bought a vehicle. (Plate : %s ) - (Model : %s)',
 }
